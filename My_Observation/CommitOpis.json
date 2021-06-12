@@ -1,0 +1,5 @@
+{
+"Descriptons":[{
+	"Version" : "1.15",
+	"Description": "Exception was in \"Wypelniania FormularzuWycieczki\" in Execution->Operations; I changed Formulation startDdateTime and EndDateTime type from DateTime to String. But in place, that occur exception, was old set() for FateTime, so I changed it to String."}]
+}
